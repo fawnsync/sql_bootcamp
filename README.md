@@ -1,4 +1,4 @@
-# sql_-bootcamp
+# sql_bootcamp
 EX00
 Please write an SQL statement that returns the total volume (sum of all money) of transactions from the user balance aggregated by user and balance type. Note that all data should be processed, including data with anomalies. Below is a table of result columns and the corresponding calculation formula.
 
